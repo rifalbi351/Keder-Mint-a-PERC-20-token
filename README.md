@@ -1,11 +1,4 @@
 
-```
-
-## Steps
-
-### 1. Clone Repository
-
-```bash
 git clone https://github.com/Mnuralim/swisstronik-perc20-mint-token.git
 ```
 
